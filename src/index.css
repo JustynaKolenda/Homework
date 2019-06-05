@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.AboutBtn{
+  width: 150px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+  font-size: 14px;
+  
+}
